@@ -1,2 +1,2 @@
 ## Hello! I'm Leandro da Silva :muscle:
-Moro em Mafra-SC :house: , tenho 22 anos, atualmente sou solteiro,  Graduado em ADS, atualmente trabalho como programador fullstack e suporte na Mercedes-Benz a dois anos :factory_worker:, sou autodidata e amo aprender novas tecnologias :books: , sou apaixonado por games FPS e torcedor da MIBR  :video_game:
+I live in Mafra-SC: house:, I'm 22 years old, currently I'm single, graduated in ADS, currently working as a fullstack programmer and supporting Mercedes-Benz for two years: factory_worker :, I'm self-taught and I love learning new technologies: books:, I am passionate about FPS games and MIBR supporter: video_game:
