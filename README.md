@@ -1,2 +1,51 @@
-## Hello! I'm Leandro da Silva :muscle:
-I live in Mafra-SC :house:, I'm 22 years old, currently I'm single, graduated in ADS, currently working as a fullstack programmer and supporting Mercedes-Benz for two years :factory_worker:, I'm self-taught and I love learning new technologies :books:, I am passionate about FPS games and MIBR fan :video_game:
+```php
+<?php
+
+namespace Dev;
+
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'SoftExpert',
+                'position' => 'Software enginner'         
+            ]
+        ];
+    }
+
+    public function getKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            CodeIgniter::class,
+            Vuejs::class,
+            Bootstrap::class,
+            Materialize::class,
+            Api::class,
+            SqlServer:class,
+            PostgreSQL::class,
+            Mysql::class,
+            Oracle::class,
+            Firebase::class,
+            Git::class,
+            Jira::class,
+            Gitlab::class,
+            Bitbucket::class,
+            Trello::class
+        ];
+    }
+
+    public function getContact(): array
+    {
+        return [
+           'linkedin' => 'https://www.linkedin.com/in/leandro-silva-a5b84318b/',
+           'email' => 'leandrosilva47@live.com',
+           'webSite' => 'https://leandro47.com/'
+        ]
+    }
+}
+```
