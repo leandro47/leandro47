@@ -26,7 +26,7 @@ class About extends Me
             Bootstrap::class,
             Materialize::class,
             Api::class,
-            SqlServer:class,
+            SqlServer::class,
             PostgreSQL::class,
             Mysql::class,
             Oracle::class,
