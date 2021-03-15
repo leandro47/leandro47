@@ -5,7 +5,7 @@ namespace Dev;
 
 class About extends Me
 {
-    public function getCurrentWorkplace(): array
+    protected function getCurrentWorkplace(): array
     {
         return [
             'workplace' => [
@@ -15,7 +15,7 @@ class About extends Me
         ];
     }
 
-    public function getKnowledge(): array
+    protected function getKnowledge(): array
     {
         return [
             Php::class,
@@ -39,7 +39,7 @@ class About extends Me
         ];
     }
 
-    public function getContact(): array
+    protected function getContact(): array
     {
         return [
            'linkedin' => 'https://www.linkedin.com/in/leandro-silva-a5b84318b/',
