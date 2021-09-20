@@ -24,4 +24,3 @@
 
 ![Leandro Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro47&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandro47&show_icons=true&locale=en" alt="leandro47" /></p>
