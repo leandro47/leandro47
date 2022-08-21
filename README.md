@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leandro Silva</h1>
-<h4 align="center">Gratuated in Analysis and Systems Development, I am an english student now. I've been working as Developer since 2018 with different technologies, but currently my main stack is Back-end with PHP, MySQL, ORACLE, Postgresql, SQL Server, but I work as front end enginner too with React and Vue. Nowadays I work as a Software Engineer at SoftExpert</h3>
+<h4 align="center">Gratuated in Analysis and Systems Development, I am an English student now. I've been working as Developer since 2018 with different technologies, but currently my main stack is Back-end with PHP, MySQL, ORACLE, Postgresql, SQL Server, but I work as front end enginner too with React and Vue. Nowadays I work as a Software Engineer at SoftExpert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandro47&label=Profile%20views&color=0e75b6&style=flat" alt="leandro47" /> </p>
 
