@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandro47&label=Profile%20views&color=0e75b6&style=flat" alt="leandro47" /> </p>
 
-- 🌱 I’m currently learning **Symfony, Vue.js, English**
-
 - 🏛️ I currently work in [SoftExpert](https://www.softexpert.com/pt-br/?gclid=CjwKCAjwgISIBhBfEiwALE19STyxszK2qZBeae8WPqltc7AkMvf89xeZPnKVUv1UW2l8QKWKEWpV0RoCpPsQAvD_BwE)
 
 - 📫 How to reach me **leandrosilva47@live.com**
